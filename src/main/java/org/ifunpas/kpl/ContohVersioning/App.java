@@ -6,8 +6,6 @@ package org.ifunpas.kpl.ContohVersioning;
  */
 public class App {
 
-    private String id;
-
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
